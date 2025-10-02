@@ -2,8 +2,8 @@
 
 ## 1. Création d’un dossier personnel et entrée dedans
 ```bash
-mkdir mon_dossier
-cd mon_dossier
+mkdir abdoul_magid
+cd abdoul_magid
 ```
 
 ## 2. Création des fichiers banque.txt, sante.txt et du fichier caché .mdp
