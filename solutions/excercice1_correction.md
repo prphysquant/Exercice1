@@ -1,4 +1,6 @@
+
 # Exercice 1 – Manipulation de fichiers et dossiers en CLI
+# je suis avec Mariam
 
 ## 1. Création du dossier cli_tmp
 ```bash
